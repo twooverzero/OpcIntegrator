@@ -1,0 +1,7 @@
+C:\Users\SEFA_WS2\Desktop\VC#-181231\VC#\opcclientvcdotnetrcw(x64)\VCDotNetRcwSample_v2.3(x64)\obj\Debug\VCDotNetRcwSample.csprojResolveAssemblyReference.cache
+C:\Users\SEFA_WS2\Desktop\VC#-181231\VC#\opcclientvcdotnetrcw(x64)\VCDotNetRcwSample_v2.3(x64)\obj\Debug\VCDotNetRcwSample.Form1.resources
+C:\Users\SEFA_WS2\Desktop\VC#-181231\VC#\opcclientvcdotnetrcw(x64)\VCDotNetRcwSample_v2.3(x64)\obj\Debug\VCDotNetRcwSample.csproj.GenerateResource.Cache
+C:\Users\SEFA_WS2\Desktop\VC#-181231\VC#\opcclientvcdotnetrcw(x64)\VCDotNetRcwSample_v2.3(x64)\bin\Debug\VCDotNetRcwSample.exe
+C:\Users\SEFA_WS2\Desktop\VC#-181231\VC#\opcclientvcdotnetrcw(x64)\VCDotNetRcwSample_v2.3(x64)\bin\Debug\VCDotNetRcwSample.pdb
+C:\Users\SEFA_WS2\Desktop\VC#-181231\VC#\opcclientvcdotnetrcw(x64)\VCDotNetRcwSample_v2.3(x64)\obj\Debug\VCDotNetRcwSample.exe
+C:\Users\SEFA_WS2\Desktop\VC#-181231\VC#\opcclientvcdotnetrcw(x64)\VCDotNetRcwSample_v2.3(x64)\obj\Debug\VCDotNetRcwSample.pdb
